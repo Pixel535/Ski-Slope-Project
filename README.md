@@ -1,4 +1,4 @@
-# Ski Slope Project
+# Ski Slope - Project
 The project has been made as a part of Concurrent Programming course for Military University of Technology
 
 # Description
